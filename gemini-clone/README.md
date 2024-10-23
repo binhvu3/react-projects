@@ -6,5 +6,10 @@ Replace `const apiKey` with your GEMINI API key in `./src/config/gemini.js`
 ```
 npm run dev
 ```
+Open internet browser and put in ` http://localhost:5173/`
+
 ## Demo
-[Demo of Gemini Clone](https://github.com/user-attachments/assets/0dd77f72-1e77-4b55-9cbc-518b0ff3d27f)
+
+[gemini_clone_demo.webm](https://github.com/user-attachments/assets/c798ad2c-e95b-4e02-bc25-52dca6bf2092)
+
+
