@@ -10,6 +10,6 @@ Open internet browser and put in ` http://localhost:5173/`
 
 ## Demo
 
-[gemini_clone_demo.webm](https://github.com/user-attachments/assets/c798ad2c-e95b-4e02-bc25-52dca6bf2092)
+[![Project Demo](https://chromeunboxed.com/wp-content/uploads/2023/12/GoogleGeminiAImodel.jpg)](https://youtu.be/HsyGn6IlRWs)
 
 
