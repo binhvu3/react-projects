@@ -4,6 +4,7 @@ Replace `const apiKey` with your GEMINI API key in `./src/config/gemini.js`
 
 ## Usage
 ```
+npm install
 npm run dev
 ```
 Open internet browser and put in ` http://localhost:5173/`
